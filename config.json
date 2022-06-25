@@ -1,0 +1,8 @@
+{
+    "textarea_xpath": "\/\/*[@id='pub_msg_input']", 
+    "send_xpath": "\/\/*[@id='msg_send_bt']",
+    "gift_xpath": "\/\/*[@id='player-face']/div[2]/ul/li[5]/img",
+    "confirm_xpath": "\/\/*[@id='player-gift-dialog']/span[1]",
+    "input_url": "https://www.huya.com/",
+    "cookies": ["",""]
+}
